@@ -22,6 +22,12 @@ public class BuildingSelectScript : MonoBehaviour
         
     }
 
+    public enum Class_color
+    {
+        blue = 0, //사용 가능
+        red = 1 // 사용 불가능
+    }
+
     Build_Save MySave = 0;
 
     // Start is called before the first frame update
@@ -68,9 +74,13 @@ public class BuildingSelectScript : MonoBehaviour
         MySave = Build_Save.M;
     }
 
-    public void sel_N()
+    public void sel_N() //자하관
     {
         MySave = Build_Save.N;
+        if( && )
+        {
+
+        }
     }
 
     public void sel_T()
