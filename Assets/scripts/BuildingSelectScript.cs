@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class BuildingSelectScript : MonoBehaviour
 {
+    public GameObject time_obj;
+    public int fin_hour = 0;
+    public int fin_minute = 0;
+
     public enum Build_Save
     {
         A = 1, //사범대학관
@@ -30,6 +34,9 @@ public class BuildingSelectScript : MonoBehaviour
     void Update()
     {
         //Debug.Log(MySave);
+        Time_FINAL();
+        DontDestroyOnLoad(this.gameObject);
+
     }
 
     public void sel_A()
@@ -74,5 +81,14 @@ public class BuildingSelectScript : MonoBehaviour
     public void sel_R()
     {
         MySave = Build_Save.R;
+    }
+
+
+    public void Time_FINAL()
+    {
+         fin_hour = time_obj.GetComponent<CurrentTime>().hour;
+        //Debug.Log(fin_hour);
+        fin_minute = GameObject.Find("script").GetComponent<CurrentTime>().minute;
+       // Debug.Log(fin_minute)
     }
 }
