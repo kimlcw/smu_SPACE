@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ScaleScript : MonoBehaviour
 {
-    [Header("ũ��ӵ� ����")]
+    //[Header("ũ��ӵ� ����")]
     [SerializeField][Range(1f, 5f)] float scaleSpeed = 1f;
 
     void Update()
