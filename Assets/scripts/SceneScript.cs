@@ -38,10 +38,10 @@ public class SceneScript : MonoBehaviour
         SceneManager.LoadScene("Build_select");
     }
 
-
-
-    public void SceneBuild_Out()
+    public void destroy_obj()
     {
-        SceneManager.LoadScene("Build_Out");
+        Destroy(GameObject.Find("script"));
     }
+
+
 }
