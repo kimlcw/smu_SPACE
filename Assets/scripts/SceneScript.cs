@@ -38,6 +38,12 @@ public class SceneScript : MonoBehaviour
         SceneManager.LoadScene("Build_select");
     }
 
+
+    public void HowtoUse_S()
+    {
+        SceneManager.LoadScene("HowToUse");
+    }
+
     public void destroy_obj()
     {
         Destroy(GameObject.Find("script"));

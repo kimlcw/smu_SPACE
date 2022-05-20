@@ -20,4 +20,94 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Out_Scene/N/N_Mon.unity
     guid: a2edd9eadca210948b75c2a23ec88a69
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/N/N_TUE.unity
+    guid: 6c920dacf99906b4e9d0edbf62a31f84
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/N/N_WED.unity
+    guid: c7534f4852756224aa8997f727a16ebc
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/N/N_THUR.unity
+    guid: ac14e855ba4980c4bb4ed31a24938131
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/N/N_FRI.unity
+    guid: ed5dad88fd03b454b80feb3e9466d227
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/A/A_MON.unity
+    guid: ec6bf7a8f53792645b363c8b83fc8260
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/A/A_TUE.unity
+    guid: 855fcbb52b9bab04faa269f13a54dba7
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/A/A_WED.unity
+    guid: 6fb03cb46ad70094ca1fb14faf6f30be
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/A/A_THUR.unity
+    guid: 075c35e10cdd89b45be5ff8804ca7c19
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/A/A_FRI.unity
+    guid: 930f28b55aaf70348860179970bcd2ee
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/G/G_MON.unity
+    guid: 26915c0ba71fd2343ac033b91f55e128
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/G/G_TUE.unity
+    guid: 6ebb87f05b379dc458c091fbef7b92cc
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/G/G_WED.unity
+    guid: d819be235520fcb4f887b1cc9e78190d
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/G/G_THUR.unity
+    guid: 600503df338513846ba4d5f84395e889
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/G/G_FRI.unity
+    guid: b63b624b0014fb646b3329c2ee201f7d
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/M/M_MON.unity
+    guid: ed2996f59035f8341956486355dd9a68
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/M/M_TUE.unity
+    guid: 35f80594bec12954594f6b9eaf5dcf37
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/M/M_WED.unity
+    guid: 1b17c1ecde264614abe43a48c17df005
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/M/M_THUR.unity
+    guid: 88ff5febe123da14699330cae78ed31f
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/M/M_FRI.unity
+    guid: 971fcf30cb7ec8c43aef2c71304403d2
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/R/R_MON.unity
+    guid: 2e50fb0b84972ca4791d45d841b66a9d
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/R/R_TUE.unity
+    guid: 4af6d671f10c50549accbeb4423e9f1f
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/R/R_WED.unity
+    guid: de192836d32280f4c8307f1a2d50d8cf
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/R/R_THUR.unity
+    guid: 4a457d0f8a19fea43992308e56170793
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/R/R_FRI.unity
+    guid: 74dbdaa71f950be4895c0063192c31a7
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/T/T_MON.unity
+    guid: 5fc348e3fcf2d78458e8b43274410474
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/T/T_TUE.unity
+    guid: a10abafe49abc174f8a59de3aa9458a5
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/T/T_WED.unity
+    guid: 5628476ddbf2c2a4ab735a418f4bbab6
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/T/T_THUR.unity
+    guid: c6f73e607089f6b4c82d2c8945ab958d
+  - enabled: 1
+    path: Assets/Scenes/Out_Scene/T/T_FRI.unity
+    guid: 60ab02a98a96ec1439f47af22defa8bc
+  - enabled: 1
+    path: Assets/Scenes/HowToUse.unity
+    guid: d067dc195c324d2428a304e0ccdce018
   m_configObjects: {}

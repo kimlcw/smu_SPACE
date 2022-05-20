@@ -20,7 +20,7 @@ public class MapVIEW : MonoBehaviour
         
     }
 
-    public void change_ver()
+    public void map_view()
     {
         if(hamsu == false)
         {
@@ -28,12 +28,15 @@ public class MapVIEW : MonoBehaviour
             mapver.SetActive(true);
             hamsu = true;
         }
-        else
-        {
+             
+    }
+
+    public void map_close()
+    {
+
             listver.SetActive(true);
             mapver.SetActive(false);
-            hamsu =false;
-        }
-        
+            hamsu = false;
+
     }
 }

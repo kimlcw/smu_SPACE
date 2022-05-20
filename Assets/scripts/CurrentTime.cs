@@ -24,9 +24,12 @@ public class CurrentTime : MonoBehaviour
     }
     void Update()
     {
-        hour = Drd_Hour.value + 8;
-        minute = Drd_Min.value;
-        day_5_int = Drd_5day.value;
+        if (Drd_Hour != null)
+        {
+            hour = Drd_Hour.value + 8;
+            minute = Drd_Min.value;
+            day_5_int = Drd_5day.value;
+        }
     }
 
     public void Time_setting()
